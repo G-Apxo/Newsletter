@@ -1,0 +1,15 @@
+.headerimg{
+    width: 100%;
+}
+.container{
+    width: 100%;
+  }
+  .header{
+    height: 500px;
+    width: 100%;
+    background-image: url("../../assets/images/bkg.png");
+    background-color: black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+  }

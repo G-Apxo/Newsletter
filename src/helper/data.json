@@ -1,0 +1,4 @@
+[
+  { "userName": "Lasha", "first": false, "second": true, "third": false },
+  { "userName": "Giorgi", "first": true, "second": false, "third": true }
+]
